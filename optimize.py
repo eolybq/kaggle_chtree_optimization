@@ -152,4 +152,4 @@ def main(save_file, N=None, file_to_optimize="initial_coordinates", step_deg=5, 
 
 
 if __name__ == "__main__":
-    main(N=200, file_to_optimize="optimized", save_file="optimized_final")
+    main(N=200, file_to_optimize="optimized", save_file="final_subm")
