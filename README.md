@@ -29,8 +29,4 @@ Refines the valid initial solution to minimize the bounding box area.
 - `data/`: Contains input and output CSV files.
 
 ## Dependencies
-
-- Python 3.x
-- `pandas`
-- `numpy`
-- `shapely`
+`pip install -r requirements.txt`
